@@ -13,9 +13,9 @@ from pathlib import Path
 
 """
 You will need to set the following environment variables:
- - SPOTIPY_CLIENT_ID (This is your client ID, provided by Spotify)
- - SPOTIPY_CLIENT_SECRET (This is your client secret, provided by Spotify)
- - SPOTIPY_USER (This is your Spotify username)
+ - SPOTIPY_CLIENT_ID (This is your client ID, provided by Spotify at https://developer.spotify.com/)
+ - SPOTIPY_CLIENT_SECRET (This is your client secret, provided by Spotify at https://developer.spotify.com/)
+ - SPOTIPY_USER (This is your Spotify username, you can find this at account overview on spotify.com)
  - SPOTIPY_REDIRECT_URI (Redirect URI, e.g. http://localhost:8888/callback)
 """
 
